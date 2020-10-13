@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21760f6f-9b78-4ac5-8796-a3cdd02a1ddb" name="Default Changelist" comment="hw-version2">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="21760f6f-9b78-4ac5-8796-a3cdd02a1ddb" name="Default Changelist" comment="hw-version3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602613221670</updated>
-      <workItem from="1602613222857" duration="6012000" />
+      <workItem from="1602613222857" duration="7007000" />
     </task>
     <task id="LOCAL-00001" summary="hw-version1">
       <created>1602613829056</created>
@@ -86,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602617899776</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hw-version3">
+      <created>1602619425747</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602619425747</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,13 +111,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hw-version1" />
     <MESSAGE value="hw-version2" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw-version2" />
+    <MESSAGE value="hw-version3" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw-version3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="14" key="SettingsEditor" timestamp="1602613576637">
+    <state x="184" y="14" key="SettingsEditor" timestamp="1602620463524">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1602613576637" />
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1602620463524" />
     <state x="357" y="108" key="Vcs.Push.Dialog.v2" timestamp="1602618000546">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
