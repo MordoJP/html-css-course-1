@@ -15,9 +15,6 @@
       <change beforePath="$PROJECT_DIR$/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog/cucumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/cucumber.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog/grandpa.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/grandpa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog/images/cucumber.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/images/cucumber.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog/images/grandpa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/images/grandpa.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog/images/sock.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/images/sock.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog/sock.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/sock.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -67,7 +64,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../e-html-css-course-1" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -90,7 +87,7 @@
       <updated>1602613221670</updated>
       <workItem from="1602613222857" duration="7943000" />
       <workItem from="1602621906675" duration="164000" />
-      <workItem from="1603012036041" duration="6976000" />
+      <workItem from="1603012036041" duration="8839000" />
     </task>
     <task id="LOCAL-00001" summary="hw-version1">
       <created>1602613829056</created>
@@ -127,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603015719051</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Finished a main page">
+      <created>1603019895452</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603019895452</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,17 +155,18 @@
     <MESSAGE value="hw-version3" />
     <MESSAGE value="Задание 1 на ветке hw-1-task-1" />
     <MESSAGE value="creation of a new structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="creation of a new structure" />
+    <MESSAGE value="Finished a main page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished a main page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="211" y="62" key="DiffContextDialog" timestamp="1602621050050">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="211" y="62" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1602621050050" />
-    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1603015321889">
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1603019621584">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1603015321889" />
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1603019621584" />
     <state x="184" y="14" key="SettingsEditor" timestamp="1602620463524">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
