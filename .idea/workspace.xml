@@ -10,12 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21760f6f-9b78-4ac5-8796-a3cdd02a1ddb" name="Default Changelist" comment="creation of a new structure">
+    <list default="true" id="21760f6f-9b78-4ac5-8796-a3cdd02a1ddb" name="Default Changelist" comment="maked all pages of catalog. fixed main and catalog pages">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog/cucumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/cucumber.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog/grandpa.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/grandpa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog/sock.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/sock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +83,7 @@
       <updated>1602613221670</updated>
       <workItem from="1602613222857" duration="7943000" />
       <workItem from="1602621906675" duration="164000" />
-      <workItem from="1603012036041" duration="10910000" />
+      <workItem from="1603012036041" duration="14845000" />
     </task>
     <task id="LOCAL-00001" summary="hw-version1">
       <created>1602613829056</created>
@@ -136,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603021659411</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="maked all pages of catalog. fixed main and catalog pages">
+      <created>1603023771144</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603023771144</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +177,8 @@
     <MESSAGE value="creation of a new structure" />
     <MESSAGE value="Finished a main page" />
     <MESSAGE value="Finished a catalog page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished a catalog page" />
+    <MESSAGE value="maked all pages of catalog. fixed main and catalog pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="maked all pages of catalog. fixed main and catalog pages" />
   </component>
   <component name="WindowStateProjectService">
     <state x="211" y="62" key="DiffContextDialog" timestamp="1602621050050">
@@ -195,5 +201,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1603013620590" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1603025178652">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1603025178652" />
   </component>
 </project>
