@@ -16,8 +16,6 @@
       <change beforePath="$PROJECT_DIR$/catalog/cucumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/cucumber.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog/grandpa.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/grandpa.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog/sock.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/sock.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +85,7 @@
       <updated>1602613221670</updated>
       <workItem from="1602613222857" duration="7943000" />
       <workItem from="1602621906675" duration="164000" />
-      <workItem from="1603012036041" duration="8839000" />
+      <workItem from="1603012036041" duration="10910000" />
     </task>
     <task id="LOCAL-00001" summary="hw-version1">
       <created>1602613829056</created>
@@ -131,11 +129,28 @@
       <option name="project" value="LOCAL" />
       <updated>1603019895452</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Finished a catalog page">
+      <created>1603021659411</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603021659411</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -156,7 +171,8 @@
     <MESSAGE value="Задание 1 на ветке hw-1-task-1" />
     <MESSAGE value="creation of a new structure" />
     <MESSAGE value="Finished a main page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished a main page" />
+    <MESSAGE value="Finished a catalog page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished a catalog page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="211" y="62" key="DiffContextDialog" timestamp="1602621050050">
