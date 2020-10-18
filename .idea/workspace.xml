@@ -10,7 +10,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21760f6f-9b78-4ac5-8796-a3cdd02a1ddb" name="Default Changelist" comment="hw-version3" />
+    <list default="true" id="21760f6f-9b78-4ac5-8796-a3cdd02a1ddb" name="Default Changelist" comment="Задание 1 на ветке hw-1-task-1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocaa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/images/cocaa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ded1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/images/grandfathers/grandpa 1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/images/opel.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +45,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="hw-1-task-1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,9 +62,17 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/Учеба" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ЦАРЬ\WebstormProjects\html-css-course-1\catalog\images\grandfathers" />
+      <recent name="C:\Users\ЦАРЬ\WebstormProjects\html-css-course-1\catalog" />
+      <recent name="C:\Users\ЦАРЬ\WebstormProjects\html-css-course-1\images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -68,7 +82,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602613221670</updated>
-      <workItem from="1602613222857" duration="7007000" />
+      <workItem from="1602613222857" duration="7943000" />
+      <workItem from="1602621906675" duration="164000" />
+      <workItem from="1603012036041" duration="3066000" />
     </task>
     <task id="LOCAL-00001" summary="hw-version1">
       <created>1602613829056</created>
@@ -91,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602619425747</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Задание 1 на ветке hw-1-task-1">
+      <created>1602621012464</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602621012464</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,21 +130,31 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hw-version1" />
     <MESSAGE value="hw-version2" />
     <MESSAGE value="hw-version3" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw-version3" />
+    <MESSAGE value="Задание 1 на ветке hw-1-task-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 1 на ветке hw-1-task-1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="211" y="62" key="DiffContextDialog" timestamp="1602621050050">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="211" y="62" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1602621050050" />
     <state x="184" y="14" key="SettingsEditor" timestamp="1602620463524">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1602620463524" />
-    <state x="357" y="108" key="Vcs.Push.Dialog.v2" timestamp="1602618000546">
+    <state x="357" y="108" key="Vcs.Push.Dialog.v2" timestamp="1602621066651">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="357" y="108" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1602618000546" />
+    <state x="357" y="108" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1602621066651" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1603013620590">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1603013620590" />
   </component>
 </project>
