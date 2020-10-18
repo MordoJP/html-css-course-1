@@ -10,12 +10,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21760f6f-9b78-4ac5-8796-a3cdd02a1ddb" name="Default Changelist" comment="Задание 1 на ветке hw-1-task-1">
+    <list default="true" id="21760f6f-9b78-4ac5-8796-a3cdd02a1ddb" name="Default Changelist" comment="creation of a new structure">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cocaa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/images/cocaa.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ded1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/images/grandfathers/grandpa 1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/cucumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/cucumber.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/grandpa.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/grandpa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/images/cucumber.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/images/cucumber.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/images/grandpa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/images/grandpa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/images/sock.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/images/sock.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/sock.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/sock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/images/opel.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +74,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ЦАРЬ\WebstormProjects\html-css-course-1\catalog\images" />
       <recent name="C:\Users\ЦАРЬ\WebstormProjects\html-css-course-1\catalog\images\grandfathers" />
       <recent name="C:\Users\ЦАРЬ\WebstormProjects\html-css-course-1\catalog" />
       <recent name="C:\Users\ЦАРЬ\WebstormProjects\html-css-course-1\images" />
@@ -84,7 +90,7 @@
       <updated>1602613221670</updated>
       <workItem from="1602613222857" duration="7943000" />
       <workItem from="1602621906675" duration="164000" />
-      <workItem from="1603012036041" duration="3066000" />
+      <workItem from="1603012036041" duration="6976000" />
     </task>
     <task id="LOCAL-00001" summary="hw-version1">
       <created>1602613829056</created>
@@ -114,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602621012464</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="creation of a new structure">
+      <created>1603015719051</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603015719051</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,13 +150,18 @@
     <MESSAGE value="hw-version2" />
     <MESSAGE value="hw-version3" />
     <MESSAGE value="Задание 1 на ветке hw-1-task-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 1 на ветке hw-1-task-1" />
+    <MESSAGE value="creation of a new structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="creation of a new structure" />
   </component>
   <component name="WindowStateProjectService">
     <state x="211" y="62" key="DiffContextDialog" timestamp="1602621050050">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="211" y="62" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1602621050050" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1603015321889">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1603015321889" />
     <state x="184" y="14" key="SettingsEditor" timestamp="1602620463524">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
