@@ -10,10 +10,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21760f6f-9b78-4ac5-8796-a3cdd02a1ddb" name="Default Changelist" comment="maked all pages of catalog. fixed main and catalog pages">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="21760f6f-9b78-4ac5-8796-a3cdd02a1ddb" name="Default Changelist" comment="finished hw2 + added gitignore file">
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/cucumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/cucumber.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/grandpa.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/grandpa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/sock.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/sock.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +46,12 @@
         </map>
       </branch-storage>
     </excluded-from-favorite>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="hw-1-task-1" />
@@ -60,7 +71,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../e-html-css-course-1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -83,7 +94,9 @@
       <updated>1602613221670</updated>
       <workItem from="1602613222857" duration="7943000" />
       <workItem from="1602621906675" duration="164000" />
-      <workItem from="1603012036041" duration="14845000" />
+      <workItem from="1603012036041" duration="15338000" />
+      <workItem from="1603192078616" duration="495000" />
+      <workItem from="1603218466543" duration="5693000" />
     </task>
     <task id="LOCAL-00001" summary="hw-version1">
       <created>1602613829056</created>
@@ -141,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603023771144</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="finished hw2 + added gitignore file">
+      <created>1603027655695</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603027655695</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,9 +198,14 @@
     <MESSAGE value="Finished a main page" />
     <MESSAGE value="Finished a catalog page" />
     <MESSAGE value="maked all pages of catalog. fixed main and catalog pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="maked all pages of catalog. fixed main and catalog pages" />
+    <MESSAGE value="finished hw2 + added gitignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished hw2 + added gitignore file" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="441" y="64" key="#CSS" timestamp="1603224734826">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="441" y="64" key="#CSS/0.0.1366.738@0.0.1366.738" timestamp="1603224734826" />
     <state x="211" y="62" key="DiffContextDialog" timestamp="1602621050050">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -189,14 +214,18 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1603019621584" />
+    <state x="544" y="281" key="Github.Dialog.Accounts.Choose" timestamp="1603027705534">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="544" y="281" key="Github.Dialog.Accounts.Choose/0.0.1366.738@0.0.1366.738" timestamp="1603027705534" />
     <state x="184" y="14" key="SettingsEditor" timestamp="1602620463524">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1602620463524" />
-    <state x="357" y="108" key="Vcs.Push.Dialog.v2" timestamp="1602621066651">
+    <state x="357" y="108" key="Vcs.Push.Dialog.v2" timestamp="1603027696516">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="357" y="108" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1602621066651" />
+    <state x="357" y="108" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1603027696516" />
     <state x="339" y="165" key="run.anything.popup" timestamp="1603013620590">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

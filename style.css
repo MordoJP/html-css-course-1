@@ -1,0 +1,19 @@
+body {
+    background-color: yellow;
+}
+.menu{
+    font-family: "Impact", sans-serif, Verdana	;
+    font-size: 40px;
+    color: darkblue;
+    font-weight: bolder;
+    list-style-image: url("style_img/list_style.png");
+    text-align: center;
+    text-decoration: overline;
+}
+.headling_1{
+    font-family: "Arial";
+    font-size: 20px;
+    background-color: black;
+    color: yellow;
+    font-weight: 700;
+}
