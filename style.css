@@ -1,19 +1,44 @@
 body {
     background-color: yellow;
 }
+.headling_1, .specifications{
+    font-size: 20px;
+}
+.menu, .specifications{
+    font-family: "Impact", sans-serif, Verdana;
+}
 .menu{
-    font-family: "Impact", sans-serif, Verdana	;
     font-size: 40px;
     color: darkblue;
     font-weight: bolder;
     list-style-image: url("style_img/list_style.png");
+    list-style-position: inside;
     text-align: center;
     text-decoration: overline;
 }
 .headling_1{
-    font-family: "Arial";
-    font-size: 20px;
+    font-family: Arial, sans-serif, Verdana	;
     background-color: black;
     color: yellow;
     font-weight: 700;
+}
+.short_description{
+    color: darkblue;
+    font-size: 10px;
+    font-family: Arial, sans-serif, Verdana;
+    font-weight: bolder;
+    font-style: italic;
+    line-height: 20px;
+}
+.full_description{
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+}
+.specifications{
+    list-style-image: url("style_img/list_style2.png");
+    font-weight: 800;
+    text-decoration: underline;
 }
