@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21760f6f-9b78-4ac5-8796-a3cdd02a1ddb" name="Default Changelist" comment="finished task 4 + correct url in catalog.html">
+      <change afterPath="$PROJECT_DIR$/style_img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/cucumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/cucumber.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/grandpa.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/grandpa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/sock.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/sock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="branch_4_hw2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ipn60E4uFtOy05fqLHzTyXgWua" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ЦАРЬ\WebstormProjects\html-css-course-1\catalog\images" />
+      <recent name="C:\Users\ЦАРЬ\WebstormProjects\html-css-course-1\catalog\images\grandfathers" />
+      <recent name="C:\Users\ЦАРЬ\WebstormProjects\html-css-course-1\catalog" />
+      <recent name="C:\Users\ЦАРЬ\WebstormProjects\html-css-course-1\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21760f6f-9b78-4ac5-8796-a3cdd02a1ddb" name="Default Changelist" comment="" />
+      <created>1602613221670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602613221670</updated>
+      <workItem from="1602613222857" duration="7943000" />
+      <workItem from="1602621906675" duration="164000" />
+      <workItem from="1603012036041" duration="15338000" />
+      <workItem from="1603192078616" duration="495000" />
+      <workItem from="1603218466543" duration="6086000" />
+      <workItem from="1603280582406" duration="62000" />
+      <workItem from="1603292851793" duration="7368000" />
+    </task>
+    <task id="LOCAL-00001" summary="hw-version1">
+      <created>1602613829056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602613829056</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hw-version2">
+      <created>1602617899776</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602617899776</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hw-version3">
+      <created>1602619425747</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602619425747</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Задание 1 на ветке hw-1-task-1">
+      <created>1602621012464</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602621012464</updated>
+    </task>
+    <task id="LOCAL-00005" summary="creation of a new structure">
+      <created>1603015719051</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603015719051</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Finished a main page">
+      <created>1603019895452</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603019895452</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Finished a catalog page">
+      <created>1603021659411</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603021659411</updated>
+    </task>
+    <task id="LOCAL-00008" summary="maked all pages of catalog. fixed main and catalog pages">
+      <created>1603023771144</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603023771144</updated>
+    </task>
+    <task id="LOCAL-00009" summary="finished hw2 + added gitignore file">
+      <created>1603027655695</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603027655695</updated>
+    </task>
+    <task id="LOCAL-00010" summary="finished task 4A">
+      <created>1603225717692</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603225717692</updated>
+    </task>
+    <task id="LOCAL-00011" summary="finished task 4A + img 4 menu list">
+      <created>1603225770544</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603225770544</updated>
+    </task>
+    <task id="LOCAL-00012" summary="finished task 4 + correct url in catalog.html">
+      <created>1603295695134</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1603295695134</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="hw-version1" />
+    <MESSAGE value="hw-version2" />
+    <MESSAGE value="hw-version3" />
+    <MESSAGE value="Задание 1 на ветке hw-1-task-1" />
+    <MESSAGE value="creation of a new structure" />
+    <MESSAGE value="Finished a main page" />
+    <MESSAGE value="Finished a catalog page" />
+    <MESSAGE value="maked all pages of catalog. fixed main and catalog pages" />
+    <MESSAGE value="finished hw2 + added gitignore file" />
+    <MESSAGE value="finished task 4A" />
+    <MESSAGE value="finished task 4A + img 4 menu list" />
+    <MESSAGE value="finished task 4 + correct url in catalog.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished task 4 + correct url in catalog.html" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="64" key="#CSS" timestamp="1603224734826">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="441" y="64" key="#CSS/0.0.1366.738@0.0.1366.738" timestamp="1603224734826" />
+    <state x="211" y="62" key="DiffContextDialog" timestamp="1602621050050">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="211" y="62" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1602621050050" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1603019621584">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1603019621584" />
+    <state x="544" y="281" key="Github.Dialog.Accounts.Choose" timestamp="1603027705534">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="544" y="281" key="Github.Dialog.Accounts.Choose/0.0.1366.738@0.0.1366.738" timestamp="1603027705534" />
+    <state x="184" y="14" key="SettingsEditor" timestamp="1602620463524">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1602620463524" />
+    <state x="357" y="108" key="Vcs.Push.Dialog.v2" timestamp="1603027696516">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="357" y="108" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1603027696516" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1603013620590">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1603013620590" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1603025178652">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1603025178652" />
+  </component>
+</project>
