@@ -42,3 +42,37 @@ body {
     font-weight: 800;
     text-decoration: underline;
 }
+.contacts{
+    height: 30px;
+    width: 400px;
+}
+input, textarea, select, button{
+    color: darkgreen;
+    font-size: 20px;
+    font-weight: bold;
+}
+textarea{
+    height: 250px;
+    width: 400px;
+}
+form{
+    font-weight: bold;
+    font-size: 25px;
+    color: yellow;
+    background: black;
+}
+.image_catalog{
+    border: black 15px double;
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.heading_main{
+    font-family: "Arial Black", sans-serif, Verdana;
+    font-size: 50px;
+    font-variant: small-caps;
+    font-weight: bolder;
+    text-align: center;
+}

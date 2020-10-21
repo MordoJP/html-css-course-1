@@ -10,13 +10,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21760f6f-9b78-4ac5-8796-a3cdd02a1ddb" name="Default Changelist" comment="finished task 4A + img 4 menu list">
-      <change afterPath="$PROJECT_DIR$/style_img/list_style2.png" afterDir="false" />
+    <list default="true" id="21760f6f-9b78-4ac5-8796-a3cdd02a1ddb" name="Default Changelist" comment="finished task 4 + correct url in catalog.html">
+      <change afterPath="$PROJECT_DIR$/style_img/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog/cucumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/cucumber.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog/grandpa.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/grandpa.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog/sock.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/sock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +100,7 @@
       <workItem from="1603192078616" duration="495000" />
       <workItem from="1603218466543" duration="6086000" />
       <workItem from="1603280582406" duration="62000" />
-      <workItem from="1603292851793" duration="2612000" />
+      <workItem from="1603292851793" duration="7368000" />
     </task>
     <task id="LOCAL-00001" summary="hw-version1">
       <created>1602613829056</created>
@@ -177,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603225770544</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="finished task 4 + correct url in catalog.html">
+      <created>1603295695134</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1603295695134</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,7 +227,8 @@
     <MESSAGE value="finished hw2 + added gitignore file" />
     <MESSAGE value="finished task 4A" />
     <MESSAGE value="finished task 4A + img 4 menu list" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished task 4A + img 4 menu list" />
+    <MESSAGE value="finished task 4 + correct url in catalog.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished task 4 + correct url in catalog.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="441" y="64" key="#CSS" timestamp="1603224734826">
