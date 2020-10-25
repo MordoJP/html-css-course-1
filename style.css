@@ -41,6 +41,11 @@ body {
     text-align: left;
 }
 
+.full_description::first-letter{
+	color: #997100;
+	font-size: 2em;
+}
+
 .specifications{
     list-style-image: url("style_img/list_style2.png");
     font-weight: 800;
@@ -53,9 +58,17 @@ body {
 }
 
 input, textarea, select, button{
-    color: darkgreen;
     font-size: 20px;
     font-weight: bold;
+}
+
+input[type=text] {
+	text-transform: capitalize;
+}
+
+input[type=email]{
+	color: #756500;
+	background: yellow;
 }
 
 textarea{
@@ -70,8 +83,12 @@ form{
     background: black;
 }
 
-.image_catalog:hover, .image_detail{
+.image_catalog, .image_detail{
     outline: black 5px dashed;
+}
+
+.image_detail:hover, .image_catalog:hover{
+	outline: none;
 }
 
 .logo{
@@ -108,4 +125,18 @@ a:link{
 
 a:focus{
 	color: #b18600;
+}
+
+table{
+	border: 3px solid #2d2702;
+	border-collapse: collapse;
+}
+
+td{
+	border: 3px solid #2d2702;
+	padding: 20px 50px;
+}
+
+.tr_1{
+height: 300px;
 }
