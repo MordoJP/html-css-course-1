@@ -1,35 +1,38 @@
 body {
-    background-color: yellow;
+    background-color: #ffff00;
 }
+
 .headling_1, .specifications{
     font-size: 20px;
 }
+
 .menu, .specifications{
     font-family: "Impact", sans-serif, Verdana;
 }
-.menu{
-    font-size: 40px;
-    color: darkblue;
+
+.menu li{
     font-weight: bolder;
     list-style-image: url("style_img/list_style.png");
     list-style-position: inside;
     text-align: center;
-    text-decoration: overline;
 }
+
 .headling_1{
     font-family: Arial, sans-serif, Verdana	;
     background-color: black;
-    color: yellow;
+    color: #ffff00;
     font-weight: 700;
 }
+
 .short_description{
-    color: darkblue;
+    color: #00008b;
     font-size: 10px;
     font-family: Arial, sans-serif, Verdana;
     font-weight: bolder;
     font-style: italic;
     line-height: 20px;
 }
+
 .full_description{
     color: black;
     font-size: 18px;
@@ -37,42 +40,72 @@ body {
     line-height: 30px;
     text-align: left;
 }
+
 .specifications{
     list-style-image: url("style_img/list_style2.png");
     font-weight: 800;
     text-decoration: underline;
 }
+
 .contacts{
     height: 30px;
     width: 400px;
 }
+
 input, textarea, select, button{
     color: darkgreen;
     font-size: 20px;
     font-weight: bold;
 }
+
 textarea{
     height: 250px;
     width: 400px;
 }
+
 form{
     font-weight: bold;
     font-size: 25px;
     color: yellow;
     background: black;
 }
-.image_catalog{
-    border: black 15px double;
+
+.image_catalog:hover, .image_detail{
+    outline: black 5px dashed;
 }
+
 .logo{
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
+
 .heading_main{
     font-family: "Arial Black", sans-serif, Verdana;
-    font-size: 50px;
+    font-size: 30px;
     font-variant: small-caps;
     font-weight: bolder;
     text-align: center;
+}
+
+.menu a:hover{
+	color: #796703;
+	font-size: 35px;
+}
+
+.header {
+	height: 420px;
+	font-size: 30px;
+}
+
+a:visited{
+	color: #483e1b;
+}
+
+a:link{
+	color: #000000;
+}
+
+a:focus{
+	color: #b18600;
 }

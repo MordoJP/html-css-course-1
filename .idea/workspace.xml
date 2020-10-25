@@ -10,8 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21760f6f-9b78-4ac5-8796-a3cdd02a1ddb" name="Default Changelist" comment="finished task 4 + correct url in catalog.html">
-      <change afterPath="$PROJECT_DIR$/style_img/logo.png" afterDir="false" />
+    <list default="true" id="21760f6f-9b78-4ac5-8796-a3cdd02a1ddb" name="Default Changelist" comment="finished task 4">
+      <change afterPath="$PROJECT_DIR$/catalog/images/change_image.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog/cucumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/cucumber.html" afterDir="false" />
@@ -20,6 +20,7 @@
       <change beforePath="$PROJECT_DIR$/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style_img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/style_img/logo.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +101,8 @@
       <workItem from="1603192078616" duration="495000" />
       <workItem from="1603218466543" duration="6086000" />
       <workItem from="1603280582406" duration="62000" />
-      <workItem from="1603292851793" duration="7368000" />
+      <workItem from="1603292851793" duration="7858000" />
+      <workItem from="1603615745456" duration="7196000" />
     </task>
     <task id="LOCAL-00001" summary="hw-version1">
       <created>1602613829056</created>
@@ -186,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603295695134</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="finished task 4">
+      <created>1603303634766</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1603303634766</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,7 +237,8 @@
     <MESSAGE value="finished task 4A" />
     <MESSAGE value="finished task 4A + img 4 menu list" />
     <MESSAGE value="finished task 4 + correct url in catalog.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished task 4 + correct url in catalog.html" />
+    <MESSAGE value="finished task 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished task 4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="441" y="64" key="#CSS" timestamp="1603224734826">
@@ -243,18 +253,18 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1603019621584" />
-    <state x="544" y="281" key="Github.Dialog.Accounts.Choose" timestamp="1603027705534">
+    <state x="544" y="281" key="Github.Dialog.Accounts.Choose" timestamp="1603303662300">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="544" y="281" key="Github.Dialog.Accounts.Choose/0.0.1366.738@0.0.1366.738" timestamp="1603027705534" />
+    <state x="544" y="281" key="Github.Dialog.Accounts.Choose/0.0.1366.738@0.0.1366.738" timestamp="1603303662300" />
     <state x="184" y="14" key="SettingsEditor" timestamp="1602620463524">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1602620463524" />
-    <state x="357" y="108" key="Vcs.Push.Dialog.v2" timestamp="1603027696516">
+    <state x="357" y="108" key="Vcs.Push.Dialog.v2" timestamp="1603303652068">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="357" y="108" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1603027696516" />
+    <state x="357" y="108" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1603303652068" />
     <state x="339" y="165" key="run.anything.popup" timestamp="1603013620590">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
