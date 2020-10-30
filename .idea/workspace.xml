@@ -10,12 +10,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21760f6f-9b78-4ac5-8796-a3cdd02a1ddb" name="Default Changelist" comment="make a logo, change a menu, make a block for footer, added hove effect in catalog and menu">
+    <list default="true" id="21760f6f-9b78-4ac5-8796-a3cdd02a1ddb" name="Default Changelist" comment="maked a table, created a table styles, created a big first letter and finished hw4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog/cucumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/cucumber.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog/grandpa.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/grandpa.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog/sock.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/sock.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +54,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="branch_4_hw3" />
+        <entry key="$PROJECT_DIR$" value="branch_4_hw4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,7 +72,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../e-html-css-course-1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -98,7 +100,8 @@
       <workItem from="1603218466543" duration="6086000" />
       <workItem from="1603280582406" duration="62000" />
       <workItem from="1603292851793" duration="7858000" />
-      <workItem from="1603615745456" duration="12564000" />
+      <workItem from="1603615745456" duration="13067000" />
+      <workItem from="1604072776236" duration="6707000" />
     </task>
     <task id="LOCAL-00001" summary="hw-version1">
       <created>1602613829056</created>
@@ -198,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603626458404</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="maked a table, created a table styles, created a big first letter and finished hw4">
+      <created>1603631854298</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1603631854298</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,7 +252,8 @@
     <MESSAGE value="finished task 4 + correct url in catalog.html" />
     <MESSAGE value="finished task 4" />
     <MESSAGE value="make a logo, change a menu, make a block for footer, added hove effect in catalog and menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="make a logo, change a menu, make a block for footer, added hove effect in catalog and menu" />
+    <MESSAGE value="maked a table, created a table styles, created a big first letter and finished hw4" />
+    <option name="LAST_COMMIT_MESSAGE" value="maked a table, created a table styles, created a big first letter and finished hw4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="441" y="64" key="#CSS" timestamp="1603224734826">
@@ -257,18 +268,18 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1603629059619" />
-    <state x="544" y="281" key="Github.Dialog.Accounts.Choose" timestamp="1603303662300">
+    <state x="544" y="281" key="Github.Dialog.Accounts.Choose" timestamp="1603631863796">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="544" y="281" key="Github.Dialog.Accounts.Choose/0.0.1366.738@0.0.1366.738" timestamp="1603303662300" />
+    <state x="544" y="281" key="Github.Dialog.Accounts.Choose/0.0.1366.738@0.0.1366.738" timestamp="1603631863796" />
     <state x="184" y="14" key="SettingsEditor" timestamp="1602620463524">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1602620463524" />
-    <state x="357" y="108" key="Vcs.Push.Dialog.v2" timestamp="1603303652068">
+    <state x="357" y="108" key="Vcs.Push.Dialog.v2" timestamp="1603631858092">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="357" y="108" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1603303652068" />
+    <state x="357" y="108" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1603631858092" />
     <state x="339" y="165" key="run.anything.popup" timestamp="1603013620590">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

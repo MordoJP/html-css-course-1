@@ -2,26 +2,90 @@ body {
     background-color: #ffff00;
 }
 
-.headling_1, .specifications{
-    font-size: 20px;
+.container{
+	width: 1000px;
+	border: 1px solid black;
+	margin: auto;
+}
+
+.header {
+	height: 250px;
+	font-size: 30px;
 }
 
 .menu, .specifications{
-    font-family: "Impact", sans-serif, Verdana;
+	font-family: "Impact", sans-serif, Verdana;
 }
 
 .menu li{
-    font-weight: bolder;
-    list-style-image: url("style_img/list_style.png");
-    list-style-position: inside;
-    text-align: center;
+	font-weight: bolder;
+	text-align: center;
+	display: inline-block;
+	padding: 10px;
+	background: black;
+	margin: 5px;
+}
+
+.logo{
+	display: block;
+}
+
+.heading_main{
+	font-family: "Arial Black", sans-serif, Verdana;
+	font-size: 25px;
+	font-variant: small-caps;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.menu{
+	margin: 0px;
+	float: right;
+}
+
+.heading_main, .menu{
+	display: inline-block;
+}
+
+.logo, .heading_main{
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.menu a:hover{
+	color: yellow;
+}
+
+a:visited{
+	color: #a98b00;
+}
+
+a:link{
+	color: #ffd752;
+}
+
+a:link .heading_main{
+	color: black;
+}
+
+a:visited .heading_main{
+	color: black;
+}
+
+a:focus{
+	color: #b18600;
 }
 
 .headling_1{
-    font-family: Arial, sans-serif, Verdana	;
-    background-color: black;
-    color: #ffff00;
-    font-weight: 700;
+	font-family: Arial, sans-serif, Verdana	;
+	background-color: black;
+	color: #ffff00;
+	font-weight: 700;
+}
+
+.headling_1, .specifications{
+    font-size: 20px;
 }
 
 .short_description{
@@ -89,54 +153,4 @@ form{
 
 .image_detail:hover, .image_catalog:hover{
 	outline: none;
-}
-
-.logo{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.heading_main{
-    font-family: "Arial Black", sans-serif, Verdana;
-    font-size: 30px;
-    font-variant: small-caps;
-    font-weight: bolder;
-    text-align: center;
-}
-
-.menu a:hover{
-	color: #796703;
-	font-size: 35px;
-}
-
-.header {
-	height: 420px;
-	font-size: 30px;
-}
-
-a:visited{
-	color: #483e1b;
-}
-
-a:link{
-	color: #000000;
-}
-
-a:focus{
-	color: #b18600;
-}
-
-table{
-	border: 3px solid #2d2702;
-	border-collapse: collapse;
-}
-
-td{
-	border: 3px solid #2d2702;
-	padding: 20px 50px;
-}
-
-.tr_1{
-height: 300px;
 }
