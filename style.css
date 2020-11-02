@@ -1,0 +1,218 @@
+body {
+    background-color: #ffff00;
+}
+
+.container{
+	margin: auto;
+}
+
+.container, .footer{
+	width: 1000px;
+}
+
+.header {
+	height: 250px;
+	font-size: 30px;
+	background-image: url("style_img/watermelon.png");
+}
+
+.menu, .specifications{
+	font-family: "Impact", sans-serif, Verdana;
+}
+
+.menu li{
+	font-weight: bolder;
+	text-align: center;
+	display: inline-block;
+	padding: 5px;
+	background: black;
+	margin: 5px;
+}
+
+.logo{
+	display: block;
+}
+
+.heading_main{
+	font-family: "Arial Black", sans-serif, Verdana;
+	font-size: 25px;
+	font-variant: small-caps;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.menu{
+	margin: 1px;
+	float: right;
+}
+
+.heading_main, .menu{
+	display: inline-block;
+}
+
+.logo, .heading_main{
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.menu a:hover{
+	color: yellow;
+}
+
+a:visited{
+	color: #a98b00;
+}
+
+a:link{
+	color: #ffd752;
+}
+
+a:link .heading_main{
+	color: black;
+}
+
+a:visited .heading_main{
+	color: black;
+}
+
+a:focus{
+	color: #b18600;
+}
+
+.headling_1{
+	font-family: Arial, sans-serif, Verdana	;
+	background-color: black;
+	color: #ffff00;
+	font-weight: 700;
+	padding-left: 15px;
+}
+
+.headling_1, .specifications{
+    font-size: 20px;
+}
+
+.short_description{
+    color: #00008b;
+    font-size: 10px;
+    font-family: Arial, sans-serif, Verdana;
+    font-weight: bolder;
+    font-style: italic;
+    line-height: 20px;
+}
+
+.full_description{
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+}
+
+.full_description::first-letter{
+	color: #997100;
+	font-size: 2em;
+}
+
+.specifications{
+    list-style-image: url("style_img/list_style2.png");
+    font-weight: 800;
+    text-decoration: underline;
+}
+
+.contacts{
+    height: 30px;
+    width: 400px;
+}
+
+input, textarea, select, button{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+input[type=text] {
+	text-transform: capitalize;
+}
+
+input[type=email]{
+	color: #756500;
+	background: yellow;
+}
+
+textarea{
+    height: 250px;
+    width: 400px;
+}
+
+form{
+    font-weight: bold;
+    font-size: 25px;
+    color: yellow;
+    background: black;
+}
+
+.image_catalog, .image_detail{
+    outline: black 5px dashed;
+}
+
+.image_detail:hover, .image_catalog:hover{
+	outline: none;
+}
+
+.footer{
+	display: block;
+	float: left;
+	background: black;
+	color: yellow;
+	text-align: right;
+	padding: 10px;
+}
+
+.image_block, .description_block, .purchase_block{
+	height: 100%;
+	margin: 10px;
+	float: left;
+}
+
+.image_block {
+	width: 260px;
+}
+
+.description_block {
+	width: 500px;
+}
+
+.headling_1, .footer{
+	clear: both;
+}
+
+.purchase_block{
+	width: 150px;
+	float: right;
+	font-size: 20px;
+	text-decoration: underline;
+	text-align: center;
+	font-family: "Impact", sans-serif, Verdana;
+}
+
+.purchase_block button{
+	color: black;
+	background: yellow;
+	width: 100%;
+}
+
+.purchase_block button:hover{
+	color: yellow;
+	background: black;
+}
+
+.purchase_block button:active{
+	background: #4f4800;
+}
+
+.catalog_link{
+	width: 30%;
+	height: 100%;
+	margin: 10px;
+	float: left;
+}
