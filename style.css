@@ -13,6 +13,7 @@ body {
 .header {
 	height: 250px;
 	font-size: 30px;
+	background-image: url("style_img/watermelon.png");
 }
 
 .menu, .specifications{
@@ -159,13 +160,12 @@ form{
 }
 
 .footer{
-	display: table-cell;
-	height: 40px;
+	display: block;
+	float: left;
 	background: black;
 	color: yellow;
-	vertical-align: middle;
 	text-align: right;
-	padding-right: 15px;
+	padding: 10px;
 }
 
 .image_block, .description_block, .purchase_block{
@@ -208,4 +208,11 @@ form{
 
 .purchase_block button:active{
 	background: #4f4800;
+}
+
+.catalog_link{
+	width: 30%;
+	height: 100%;
+	margin: 10px;
+	float: left;
 }
