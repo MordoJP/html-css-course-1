@@ -10,14 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21760f6f-9b78-4ac5-8796-a3cdd02a1ddb" name="Default Changelist" comment="maked a table, created a table styles, created a big first letter and finished hw4">
+    <list default="true" id="21760f6f-9b78-4ac5-8796-a3cdd02a1ddb" name="Default Changelist" comment="make a parent block .container, change menu on all pages.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog/cucumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/cucumber.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog/grandpa.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/grandpa.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog/sock.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/sock.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +98,8 @@
       <workItem from="1603280582406" duration="62000" />
       <workItem from="1603292851793" duration="7858000" />
       <workItem from="1603615745456" duration="13067000" />
-      <workItem from="1604072776236" duration="6707000" />
+      <workItem from="1604072776236" duration="8430000" />
+      <workItem from="1604312797592" duration="3617000" />
     </task>
     <task id="LOCAL-00001" summary="hw-version1">
       <created>1602613829056</created>
@@ -208,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603631854298</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="make a parent block .container, change menu on all pages.">
+      <created>1604083556465</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1604083556465</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,7 +258,8 @@
     <MESSAGE value="finished task 4" />
     <MESSAGE value="make a logo, change a menu, make a block for footer, added hove effect in catalog and menu" />
     <MESSAGE value="maked a table, created a table styles, created a big first letter and finished hw4" />
-    <option name="LAST_COMMIT_MESSAGE" value="maked a table, created a table styles, created a big first letter and finished hw4" />
+    <MESSAGE value="make a parent block .container, change menu on all pages." />
+    <option name="LAST_COMMIT_MESSAGE" value="make a parent block .container, change menu on all pages." />
   </component>
   <component name="WindowStateProjectService">
     <state x="441" y="64" key="#CSS" timestamp="1603224734826">
